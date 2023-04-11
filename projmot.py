@@ -38,4 +38,4 @@ plt.ylabel("Vertical displacement (m)")
 plt.title("Projectile motion")
 
 # Save file
-plt.savefig(r"C:\Users\calvi\Desktop\Programmieren\Python\Physics\Projectile Motion\trajectory.png")
+plt.savefig(r"C:\Users\[USER]\Desktop\trajectory.png")
